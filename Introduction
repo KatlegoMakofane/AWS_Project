@@ -1,0 +1,41 @@
+Introduction
+Youth unemployment is one of the major socio-economic challenges facing South Africa. Many young people, recent graduates and unemployed individuals struggle to find suitable employment opportunities, internships, learnerships and skills development programmes. One of the contributing factors is the difficulty of accessing reliable and up-to-date information, as opportunities are often advertised across different websites and platforms. This can make the job search process time-consuming and challenging, particularly for individuals with limited work experience or access to career guidance.
+
+To address this challenge, the proposed project, JobConnect SA, aims to develop a cloud-based web application that connects job seekers with employment and career development opportunities through a single, accessible platform. The system will allow users to search and filter opportunities, create profiles, save relevant listings and manage their applications. Employers and authorised administrators will also be able to publish and manage available opportunities, helping job seekers discover options that match their skills, qualifications and career interests.
+
+The application will use Amazon Web Services (AWS) to provide a scalable, secure and reliable cloud infrastructure. Services such as AWS Amplify, Amazon Cognito, Amazon API Gateway, AWS Lambda, Amazon DynamoDB and Amazon S3 will support website hosting, user authentication, backend processing, data storage and document management. GitHub will be used for source code management and version control, with automated deployment supporting the development process.
+
+The main objective of JobConnect SA is to improve access to employment information, reduce the difficulty of searching across multiple platforms and support young people in taking practical steps towards employment. Through the use of cloud computing technologies, the project demonstrates how technology can be applied to address a real-world socio-economic problem while providing a practical, accessible and maintainable digital solution.
+
+
+Project name: JobConnect SA
+
+Social-economic problem: Youth unemployment and limited access to job opportunities in South Africa.
+
+Question
+
+Answer
+
+1. Who is the customer?
+
+The primary customers are unemployed young people, job seekers, graduates and students looking for jobs, internships, learnerships and skills development programmes in South Africa. Employers and organisations offering opportunities are secondary customers.
+
+2. Who is affected?
+
+Unemployed youth, recent graduates, people with limited work experience and individuals from disadvantaged communities are most affected. Employers are also affected because they may struggle to reach suitable candidates.
+
+3. What is the customer problem or opportunity?
+
+Many job seekers struggle to find reliable, relevant and up-to-date employment opportunities because information is spread across multiple websites and platforms. Some applicants also lack guidance on matching their skills and qualifications to available opportunities. JobConnect SA creates an opportunity to bring these opportunities together in one accessible platform.
+
+4. What are you proposing to launch?
+
+I propose to launch JobConnect SA, a cloud-based web application that helps people discover jobs, internships, learnerships and skills development programmes. It will provide opportunity search and filtering, user registration, saved opportunities and an application-tracking feature.
+
+5. Why does the customer need this in their life?
+
+Job seekers need an easier and more convenient way to discover opportunities that match their qualifications, skills and career goals. The platform can reduce the time spent searching across multiple websites, improve access to employment information and help users take practical steps towards employment.
+
+6. How does it work?
+
+Users access JobConnect SA through a web browser, create an account and enter their skills, qualifications and interests. They search and filter available opportunities by category, location and other criteria. They can view opportunity details, save suitable listings and submit or track applications where supported. Employers or administrators can add and manage opportunities. The application uses AWS services to host the website, authenticate users, process requests, store opportunity data and monitor system activity.
